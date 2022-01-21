@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-country-quiz/static/css/main.dc6a6f4b.css",
+    "main.js": "/react-country-quiz/static/js/main.04004e6d.js",
+    "static/media/background.png": "/react-country-quiz/static/media/background.41dbc5504a105eae7176.png",
+    "index.html": "/react-country-quiz/index.html",
+    "main.dc6a6f4b.css.map": "/react-country-quiz/static/css/main.dc6a6f4b.css.map",
+    "main.04004e6d.js.map": "/react-country-quiz/static/js/main.04004e6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6a6f4b.css",
+    "static/js/main.04004e6d.js"
+  ]
+}
