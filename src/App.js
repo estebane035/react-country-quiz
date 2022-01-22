@@ -89,7 +89,7 @@ function App() {
   return (
     <>
       <div className="flex flex-col items-center bg-main-background min-h-screen text-lg font-poppins">
-        <div className="w-1/4 m-auto">
+        <div className="w-3xl m-auto">
           <p className="mb-4 text-white text-4xl font-bold">Country Quiz</p>
           {
             isFinished
